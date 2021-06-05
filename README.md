@@ -15,4 +15,7 @@
 
 ### Outcome pics: 
 
+![output](outputP6.png)
+![output2](outputP6-2.png)
+
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
